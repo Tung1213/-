@@ -144,7 +144,7 @@ function get_data(){
 				return 0;
 			}
 		};
-		ajaxRequest.open("GET","http://192.168.50.89/count",true);
+		ajaxRequest.open("GET","http://172.20.10.4/count",true);
 		ajaxRequest.send(); 
 	}	
 setInterval(get_data,100);
