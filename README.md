@@ -34,7 +34,13 @@ https://user-images.githubusercontent.com/58096503/233959912-6d4fc797-97d8-419d-
 ## 3. 匯出試算表則是以檔案下載的方式將成績下載下來，減少更多的整理時間
 
 ---
+# 【使用技術】
 
+1. HTML5、CSS3、JavaScript、Bootstrap3
+2. Ajax技術應用-將數據的儲存至Google sheets
+
+
+---
 # 【Demo】
 
 
